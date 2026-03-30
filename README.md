@@ -1,10 +1,4 @@
-# DocuArchiver
-A Chrome extension to automatically archive and organize downloaded files.
-這是一份包含**繁體中文**與**英文**雙語版本的 `README.md` 草稿，並已經將您指定的 6 種語系（zh\_TW, ko, ja, es, en, ar）完整列入「功能特色」中。
 
-您可以直接複製以下內容貼上到您的 GitHub 儲存庫中：
-
------
 
 # 📂 DocuArchiver (軟體工程資料下載歸檔工具)
 
