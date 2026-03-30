@@ -35,12 +35,7 @@ A powerful browser extension designed to help you organize and manage downloaded
 2.  Click **"Add to Chrome"**.
 3.  Confirm the installation and start organizing your downloads\!
 
-**Method 2: Developer Installation (Local)**
 
-1.  Clone this repository: `git clone https://github.com/Grt1223/docu-archiver.git`
-2.  Open Chrome and navigate to `chrome://extensions/`.
-3.  Enable **"Developer mode"** in the top right corner.
-4.  Click **"Load unpacked"** and select the cloned project folder.
 
 ### 💡 Usage
 
@@ -77,12 +72,7 @@ A powerful browser extension designed to help you organize and manage downloaded
 2.  點擊右上方 **「加到 Chrome」** 按鈕。
 3.  授權並確認安裝，即可開始使用。
 
-**方法二：開發者本地安裝**
 
-1.  將此專案 Clone 到本地：`git clone https://github.com/Grt1223/docu-archiver.git`
-2.  開啟 Chrome 瀏覽器並輸入 `chrome://extensions/` 進入擴充功能管理頁面。
-3.  開啟右上角的 **「開發人員模式」**。
-4.  點擊左上角的 **「載入未封裝項目」**，並選擇剛剛 clone 下來的專案資料夾。
 
 ### 💡 使用說明
 
